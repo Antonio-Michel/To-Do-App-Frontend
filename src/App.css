@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.center {
+  margin: 0 auto;
+}
+
+.metrics {
+  border: solid gainsboro 0.2rem;
+  border-radius: 7px;
+  padding: 10px;
+  margin-bottom: 4vh;
+}
+
+.filters {
+  border: solid gainsboro 0.2rem;
+  border-radius: 7px;
+  padding: 10px;
+  margin-bottom: 2vh;
+}
+
+.sort:hover {
+  text-decoration: underline;
+}
+
+.done {
+  text-decoration: line-through;
+}
